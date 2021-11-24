@@ -1,5 +1,6 @@
 # dog-breed-prediction
 Dog breed prediction using CNN and dataset from Kaggle
+link to dataset : https://www.kaggle.com/catherinehorng/dogbreedidfromcomp
 
 This dog breed prediction is an image classifier that works on convolutional neural network to differentiate between three kind of dog breeds.
 
