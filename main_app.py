@@ -17,6 +17,7 @@ st.markdown("Upload an image of the dog")
 
 #Uploading the dog image
 dog_image = st.file_uploader("Choose an image...", type="png")
+info = st.markdown("This calssifier can predict only three types of dog breed from : Maltese, Scottish Deerhound and Bernese Mountain Dog")
 submit = st.button('Predict')
 #On predict button click
 if submit:
