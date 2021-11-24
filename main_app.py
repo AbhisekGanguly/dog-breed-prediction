@@ -12,7 +12,7 @@ model = load_model('dog_breed.h5')
 CLASS_NAMES = ['Scottish Deerhound','Maltese Dog','Bernese Mountain Dog']
 
 #Setting Title of App
-st.title("Dog Breed Prediction")
+st.title("Dog Breed Prediction by Abhisek Ganguly")
 st.markdown("Upload an image of the dog")
 
 #Uploading the dog image
